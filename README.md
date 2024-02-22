@@ -30,6 +30,8 @@ To run it, after moving into the [solver](/solver/) folder, run `npm install` an
 
 For the solver itself take a look into the [puzzleSolver.js](/solver/puzzleSolver.js) file (the adapted version of the original [main.js](/original_files/main.js) file) and the [worker.js](/solver/worker.js) file (the adapted version of the original [worker.js](/original_files/worker.js) file).
 
+Fun fact, if u start a Worker for each piece of the puzzle the solving is going to be even faster and remove all the queue system they implemented
+
 
 ## My links
 - [Website](https://glizzykingdreko.github.io)
